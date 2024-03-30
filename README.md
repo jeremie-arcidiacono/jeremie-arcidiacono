@@ -21,4 +21,4 @@ I am interested in programming and administration of systems and networks.
 Professional email : jeremie@arcidiacono.dev
 <br><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeremie-arcidiacono&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeremie-arcidiacono&show_icons=true&theme=vue&hide=stars)
